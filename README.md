@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **lyorig/lyorig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Software engineering student at CTU FEE in Prague.
+
+Currently working on [halcyon-rs](https://github.com/lyorig/halcyon-rs), aiming to learn Rust, and create an API from which not only I, but others, might benefit as well.
+
+I also enjoy writing/learning C++, as it is a language where code style and best practices matter due to the sheer amount of features and cruft that have accumulated since its inception.
+
+Graphics programming is another area which has interested me lately, specifically Vulkan and other modern graphics APIs.
+
+Reach me at [petrsacha@proton.me](mailto:petrsacha@proton.me).
