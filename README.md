@@ -22,3 +22,12 @@ I also enjoy writing/learning C++, as it is a language where code style and best
 Graphics programming is another area which has interested me lately, specifically Vulkan and other modern graphics APIs.
 
 Reach me at [petrsacha@proton.me](mailto:petrsacha@proton.me).
+
+```rust
+/// Call at the beginning of all of your functions to grant LLVM
+/// complete freedom to apply any optimisation.
+pub fn optimiser_go_brrr() {
+    unsafe { std::hint::unreachable_unchecked() };
+}
+```
+[source](https://www.reddit.com/r/rust/comments/1pz0edr/comment/nwn5uch)
