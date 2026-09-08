@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 Software engineering student at CTU FEE in Prague.
 
-Currently working on [halcyon-rs](https://github.com/lyorig/halcyon-rs), aiming to learn Rust, and create an API from which not only I, but others, might benefit as well.
+Currently working on [Sandlot](https://github.com/lyorig/halcyon-rs), aiming to learn Rust, and create an API from which not only I, but others, might benefit as well.
 
 I also enjoy writing/learning C++, as it is a language where code style and best practices matter due to the sheer amount of features and cruft that have accumulated since its inception.
 
